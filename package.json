@@ -1,0 +1,11 @@
+{
+  "name": "framework-setting",
+  "version": "1.0.0",
+  "description": "nest,next,eslint,husky 등등... 프로젝트 세팅을 학습, 테스트하기 위한 레포지토리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
